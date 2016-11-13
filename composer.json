@@ -1,0 +1,14 @@
+{
+    "authors": [
+        {
+            "name": "Bryse Meijer",
+            "email": "me@bryse.net",
+            "homepage": "http://brysemeijer.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App"
+        }
+    }
+}
